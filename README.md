@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Shubham Singh
 **A passionate Full-Stack Developer**
 
-Email Me 👉 ✉️ **shubham1728pcm@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 📫 **shubham1728pcm@gmail.com** For Collaboration/Project or Anything Else. 🚀🚀
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 I’m Shubham Singh, a Full Stack Developer skilled in Node.js, Express.js, React, TypeScript, and MongoDB. I specialize in building scalable web applications with efficient backend systems and intuitive user interfaces, while continuously enhancing my technical expertise.
 
 <div align="center">
